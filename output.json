@@ -1,0 +1,561 @@
+[
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d73"
+    },
+    "EmployeeID": "E001    ",
+    "Department_x": "D001",
+    "Salary": 55000,
+    "DepartmentID": "D001",
+    "Department_y": " Finance",
+    "FullName": "Alice White",
+    "Age": 34,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d74"
+    },
+    "EmployeeID": "E006    ",
+    "Department_x": "D001",
+    "Salary": 85000,
+    "DepartmentID": "D001",
+    "Department_y": " Finance",
+    "FullName": "Frank Turner",
+    "Age": 44,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d75"
+    },
+    "EmployeeID": "E009    ",
+    "Department_x": "D001",
+    "Salary": 110000,
+    "DepartmentID": "D001",
+    "Department_y": " Finance",
+    "FullName": "Ian Ross",
+    "Age": 28,
+    "SalaryBucket": "C"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d76"
+    },
+    "EmployeeID": "E014    ",
+    "Department_x": "D001",
+    "Salary": 39400,
+    "DepartmentID": "D001",
+    "Department_y": " Finance",
+    "FullName": "Carla 342Jimenez",
+    "Age": 49,
+    "SalaryBucket": "A"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d77"
+    },
+    "EmployeeID": "E017    ",
+    "Department_x": "D001",
+    "Salary": 102000,
+    "DepartmentID": "D001",
+    "Department_y": " Finance",
+    "FullName": "(Inna) Romanov",
+    "Age": 36,
+    "SalaryBucket": "C"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d78"
+    },
+    "EmployeeID": "E022    ",
+    "Department_x": "D001",
+    "Salary": 180000,
+    "DepartmentID": "D001",
+    "Department_y": " Finance",
+    "FullName": "Bell Smith",
+    "Age": 55,
+    "SalaryBucket": "C"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d79"
+    },
+    "EmployeeID": "E027    ",
+    "Department_x": "D001",
+    "Salary": 48000,
+    "DepartmentID": "D001",
+    "Department_y": " Finance",
+    "FullName": "Kelly O'Connel",
+    "Age": 14,
+    "SalaryBucket": "A"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d7a"
+    },
+    "EmployeeID": "E032    ",
+    "Department_x": "D001",
+    "Salary": 155000,
+    "DepartmentID": "D001",
+    "Department_y": " Finance",
+    "FullName": "Travis Rumbold",
+    "Age": 37,
+    "SalaryBucket": "C"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d7b"
+    },
+    "EmployeeID": "E036    ",
+    "Department_x": "D001",
+    "Salary": 82000,
+    "DepartmentID": "D001",
+    "Department_y": " Finance",
+    "FullName": "Olivia Ab01Sila",
+    "Age": 45,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d7c"
+    },
+    "EmployeeID": "E040    ",
+    "Department_x": "D001",
+    "Salary": 97000,
+    "DepartmentID": "D001",
+    "Department_y": " Finance",
+    "FullName": "Szilvia FrncisHall",
+    "Age": 27,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d7d"
+    },
+    "EmployeeID": "E044    ",
+    "Department_x": "D001",
+    "Salary": 47000,
+    "DepartmentID": "D001",
+    "Department_y": " Finance",
+    "FullName": "Gabriel Lakey",
+    "Age": 26,
+    "SalaryBucket": "A"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d7e"
+    },
+    "EmployeeID": "E002    ",
+    "Department_x": "D002",
+    "Salary": 90000,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "Bob Brown",
+    "Age": 36,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d7f"
+    },
+    "EmployeeID": "E005    ",
+    "Department_x": "D002",
+    "Salary": 125000,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "Eve Green",
+    "Age": 39,
+    "SalaryBucket": "C"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d80"
+    },
+    "EmployeeID": "E010    ",
+    "Department_x": "D002",
+    "Salary": 70000,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "John Bishop",
+    "Age": 27,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d81"
+    },
+    "EmployeeID": "E011    ",
+    "Department_x": "D002",
+    "Salary": 100000,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "Ada LLovelace",
+    "Age": 221,
+    "SalaryBucket": "C"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d82"
+    },
+    "EmployeeID": "E012    ",
+    "Department_x": "D002",
+    "Salary": 87500,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "AmyC Appleseed",
+    "Age": 48,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d83"
+    },
+    "EmployeeID": "E016    ",
+    "Department_x": "D002",
+    "Salary": 75000,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "EllieJ McException",
+    "Age": 1,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d84"
+    },
+    "EmployeeID": "E021    ",
+    "Department_x": "D002",
+    "Salary": 30000,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "Angela Williams",
+    "Age": 6,
+    "SalaryBucket": "A"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d85"
+    },
+    "EmployeeID": "E025    ",
+    "Department_x": "D002",
+    "Salary": 150075,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "Zayd Edris",
+    "Age": 46,
+    "SalaryBucket": "C"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d86"
+    },
+    "EmployeeID": "E029    ",
+    "Department_x": "D002",
+    "Salary": 75000,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "NeilQ Quintz",
+    "Age": 52,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d87"
+    },
+    "EmployeeID": "E031    ",
+    "Department_x": "D002",
+    "Salary": 71000,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "Susan _Doe",
+    "Age": 43,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d88"
+    },
+    "EmployeeID": "E035    ",
+    "Department_x": "D002",
+    "Salary": 127000,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "Nic_ Wilson",
+    "Age": 22,
+    "SalaryBucket": "C"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d89"
+    },
+    "EmployeeID": "E039    ",
+    "Department_x": "D002",
+    "Salary": 88000,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "Ren\u00e9A R\u00e9gisReed",
+    "Age": 29,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d8a"
+    },
+    "EmployeeID": "E046    ",
+    "Department_x": "D002",
+    "Salary": 70000,
+    "DepartmentID": "D002",
+    "Department_y": " IT",
+    "FullName": "IanS Kimball",
+    "Age": 53,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d8b"
+    },
+    "EmployeeID": "E003    ",
+    "Department_x": "D003",
+    "Salary": 47000,
+    "DepartmentID": "D003",
+    "Department_y": " HR",
+    "FullName": "Carol Grey",
+    "Age": 29,
+    "SalaryBucket": "A"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d8c"
+    },
+    "EmployeeID": "E007    ",
+    "Department_x": "D003",
+    "Salary": 62000,
+    "DepartmentID": "D003",
+    "Department_y": " HR",
+    "FullName": "Grace Harper",
+    "Age": 31,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d8d"
+    },
+    "EmployeeID": "E015    ",
+    "Department_x": "D003",
+    "Salary": 10000,
+    "DepartmentID": "D003",
+    "Department_y": " HR",
+    "FullName": "007Dena Smith-Tracy",
+    "Age": 44,
+    "SalaryBucket": "A"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d8e"
+    },
+    "EmployeeID": "E018    ",
+    "Department_x": "D003",
+    "Salary": 49999,
+    "DepartmentID": "D003",
+    "Department_y": " HR",
+    "FullName": "Liska -diana",
+    "Age": 33,
+    "SalaryBucket": "A"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d8f"
+    },
+    "EmployeeID": "E024    ",
+    "Department_x": "D003",
+    "Salary": 20000,
+    "DepartmentID": "D003",
+    "Department_y": " HR",
+    "FullName": "D\\nDora Delgadooo",
+    "Age": 24,
+    "SalaryBucket": "A"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d90"
+    },
+    "EmployeeID": "E026    ",
+    "Department_x": "D003",
+    "Salary": 45000,
+    "DepartmentID": "D003",
+    "Department_y": " HR",
+    "FullName": "Tina McTwitter",
+    "Age": 34,
+    "SalaryBucket": "A"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d91"
+    },
+    "EmployeeID": "E034    ",
+    "Department_x": "D003",
+    "Salary": 60000,
+    "DepartmentID": "D003",
+    "Department_y": " HR",
+    "FullName": "Minerva Torres",
+    "Age": 23,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d92"
+    },
+    "EmployeeID": "E037    ",
+    "Department_x": "D003",
+    "Salary": 61000,
+    "DepartmentID": "D003",
+    "Department_y": " HR",
+    "FullName": "Padma Patil",
+    "Age": 31,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d93"
+    },
+    "EmployeeID": "E041    ",
+    "Department_x": "D003",
+    "Salary": 57000,
+    "DepartmentID": "D003",
+    "Department_y": " HR",
+    "FullName": "AndreaS Val043_y",
+    "Age": 30,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d94"
+    },
+    "EmployeeID": "E045    ",
+    "Department_x": "D003",
+    "Salary": 64000,
+    "DepartmentID": "D003",
+    "Department_y": " HR",
+    "FullName": "H\u00e9ct\u00f3r Espinsa",
+    "Age": 39,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d95"
+    },
+    "EmployeeID": "E004    ",
+    "Department_x": "D004",
+    "Salary": 75000,
+    "DepartmentID": "D004",
+    "Department_y": " Marketing",
+    "FullName": "David Black",
+    "Age": 32,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d96"
+    },
+    "EmployeeID": "E008    ",
+    "Department_x": "D004",
+    "Salary": 43000,
+    "DepartmentID": "D004",
+    "Department_y": " Marketing",
+    "FullName": "Holly Norman",
+    "Age": 25,
+    "SalaryBucket": "A"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d97"
+    },
+    "EmployeeID": "E013    ",
+    "Department_x": "D004",
+    "Salary": 200150,
+    "DepartmentID": "D004",
+    "Department_y": " Marketing",
+    "FullName": "Bao Nguyen",
+    "Age": 19,
+    "SalaryBucket": "C"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d98"
+    },
+    "EmployeeID": "E019    ",
+    "Department_x": "D004",
+    "Salary": 100000,
+    "DepartmentID": "D004",
+    "Department_y": " Marketing",
+    "FullName": "Mario Antonio",
+    "Age": 39,
+    "SalaryBucket": "C"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d99"
+    },
+    "EmployeeID": "E023    ",
+    "Department_x": "D004",
+    "Salary": 99999,
+    "DepartmentID": "D004",
+    "Department_y": " Marketing",
+    "FullName": "Cory Thompson",
+    "Age": 35,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d9a"
+    },
+    "EmployeeID": "E028    ",
+    "Department_x": "D004",
+    "Salary": 98000,
+    "DepartmentID": "D004",
+    "Department_y": " Marketing",
+    "FullName": "Marek Swobodzki",
+    "Age": 34,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d9b"
+    },
+    "EmployeeID": "E033    ",
+    "Department_x": "D004",
+    "Salary": 51000,
+    "DepartmentID": "D004",
+    "Department_y": " Marketing",
+    "FullName": "Lvi Marks",
+    "Age": 30,
+    "SalaryBucket": "B"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d9c"
+    },
+    "EmployeeID": "E038    ",
+    "Department_x": "D004",
+    "Salary": 43000,
+    "DepartmentID": "D004",
+    "Department_y": " Marketing",
+    "FullName": "\u00d1elly Garc\u00eda",
+    "Age": 20,
+    "SalaryBucket": "A"
+  },
+  {
+    "_id": {
+      "$oid": "6592918a3ef23a94deff5d9d"
+    },
+    "EmployeeID": "E047    ",
+    "Department_x": "D004",
+    "Salary": 5000,
+    "DepartmentID": "D004",
+    "Department_y": " Marketing",
+    "FullName": "Jack Slater",
+    "Age": 39,
+    "SalaryBucket": "A"
+  }
+]
